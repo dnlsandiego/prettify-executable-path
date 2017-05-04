@@ -1,4 +1,8 @@
-# Prettify your executable path a.k.a $PATH
+# prettify-executable-path
+View your executable path a.k.a `$PATH` in a much more readable format rather than something like:
+```
+/Users/$username/.rvm/gems/ruby-2.2.4/bin:/Users/$username/.rvm/gems/ruby-2.2.4@global/bin:/Users/$username/.rvm/rubies/ruby-2.2.4/bin:/usr/local/Cellar/node/7.9.0/bin:/Users/$username/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/$username/.composer/vendor/bin:/Users/$username/.rvm/bin
+```
 
 ## Install
 
