@@ -1,0 +1,16 @@
+{
+  "name": "prettify-executable-path",
+  "version": "0.1.0",
+  "description": "View your `$PATH` in a readable format.",
+  "keywords": ["path"],
+  "repository": "",
+  "author": "Daniel Sandiego",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "prettify-path": "index.js"
+  },
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  }
+}
