@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "View your `$PATH` in a readable format.",
   "keywords": ["path"],
-  "repository": "",
+  "repository": "dnlsandiego/prettify-executable-path",
   "author": "Daniel Sandiego",
   "license": "MIT",
   "preferGlobal": true,
